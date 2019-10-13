@@ -1,9 +1,9 @@
- ADM-Homework-1
+ADM-Homework-1
 ------
 This repository contains the submission of the 1st Homework of Algorithmic Methods of Data Mining
 
-### Content of the repository:
-
+Content of the repository:
+-------
 #### 1) Homework1.py
 It's a .py file that cointains the scripts for the solutions of the challenges
 
